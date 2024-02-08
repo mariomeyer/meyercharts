@@ -3,7 +3,17 @@ entries:
   activepieces:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-02-08T15:50:21.38903-05:00"
+    created: "2024-02-08T16:21:14.351954-05:00"
+    description: Activepieces is an open-source business automation tool
+    digest: 96eb95af58ab96c523c5b085de4458bc5a49be565bf6080ff4c7fbb09d41f507
+    name: activepieces
+    type: application
+    urls:
+    - activepieces-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-08T16:21:14.351048-05:00"
     description: Activepieces is an open-source business automation tool
     digest: ebf991028af0f825f10ed1f5c2ff47293cf74f74d2e3c64190ca92af11aef608
     name: activepieces
@@ -13,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-02-08T15:50:21.388236-05:00"
+    created: "2024-02-08T16:21:14.3498-05:00"
     description: Activepieces is an open-source business automation tool
     digest: 3a8c0538bdf23edcdc64c714c69432e3c5777860403427de251491e9ac618b15
     name: activepieces
@@ -24,9 +34,9 @@ entries:
   route53-cron:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-02-08T15:50:21.389962-05:00"
+    created: "2024-02-08T16:21:14.353742-05:00"
     description: Dynamic DNS simple updater for AWS Route 53 on top of AWS CLI image
-    digest: d442b88fc94c72025551c17c194859b6e687e892fb5b59e46fcd26a2ca104df2
+    digest: 90e4bca3e6b372b29533038090042a2c37dc2e3d1ebd7a1d9d351fe3e6f57dd0
     name: route53-cron
     type: application
     urls:
@@ -34,7 +44,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-02-08T15:50:21.389707-05:00"
+    created: "2024-02-08T16:21:14.352866-05:00"
     description: Dynamic DNS simple updater for AWS Route 53 on top of AWS CLI image
     digest: 76ee91952b33b8d11b376044cfa44fb9ad68987812c52d3b168be28c0030a5bd
     name: route53-cron
@@ -42,4 +52,4 @@ entries:
     urls:
     - route53-cron-0.1.0.tgz
     version: 0.1.0
-generated: "2024-02-08T15:50:21.385446-05:00"
+generated: "2024-02-08T16:21:14.34753-05:00"
