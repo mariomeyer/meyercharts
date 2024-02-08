@@ -3,7 +3,17 @@ entries:
   activepieces:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-13T12:43:29.761248-05:00"
+    created: "2024-02-08T15:50:21.38903-05:00"
+    description: Activepieces is an open-source business automation tool
+    digest: ebf991028af0f825f10ed1f5c2ff47293cf74f74d2e3c64190ca92af11aef608
+    name: activepieces
+    type: application
+    urls:
+    - activepieces-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-02-08T15:50:21.388236-05:00"
     description: Activepieces is an open-source business automation tool
     digest: 3a8c0538bdf23edcdc64c714c69432e3c5777860403427de251491e9ac618b15
     name: activepieces
@@ -14,7 +24,17 @@ entries:
   route53-cron:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-12-13T12:43:29.761601-05:00"
+    created: "2024-02-08T15:50:21.389962-05:00"
+    description: Dynamic DNS simple updater for AWS Route 53 on top of AWS CLI image
+    digest: d442b88fc94c72025551c17c194859b6e687e892fb5b59e46fcd26a2ca104df2
+    name: route53-cron
+    type: application
+    urls:
+    - route53-cron-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2024-02-08T15:50:21.389707-05:00"
     description: Dynamic DNS simple updater for AWS Route 53 on top of AWS CLI image
     digest: 76ee91952b33b8d11b376044cfa44fb9ad68987812c52d3b168be28c0030a5bd
     name: route53-cron
@@ -22,4 +42,4 @@ entries:
     urls:
     - route53-cron-0.1.0.tgz
     version: 0.1.0
-generated: "2023-12-13T12:43:29.759973-05:00"
+generated: "2024-02-08T15:50:21.385446-05:00"
