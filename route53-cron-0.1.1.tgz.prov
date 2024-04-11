@@ -1,0 +1,26 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+appVersion: 0.1.0
+description: Dynamic DNS simple updater for AWS Route 53 on top of AWS CLI image
+name: route53-cron
+type: application
+version: 0.1.1
+
+...
+files:
+  route53-cron-0.1.1.tgz: sha256:4123c284686b8152c3a1c3dd14c29f96dbff3bca7fbd4a135b5520bf616fd4ad
+-----BEGIN PGP SIGNATURE-----
+
+wsDcBAEBCgAQBQJmF+ezCRC0ZzUQ50OLIQAAPQsMAKmeixOSKmlptjHcBIhkqUTC
+9DNpWyS6ANxzHzxsuZi0r2gCa0rAc7wTyeT9+HD8rSIcgTtScdlQ0miMrPxknTKV
+Kzi9TnleSMb7rHeDMUfTkY4deRb48C2eC31k75km8PBWSfP4FaDbeniB7EWyiKWV
+JkfTK04KhN/9qXxleiiHQfjUsn3eQ2E1w2sEzVM7fAgcs/stSyb/Kl4n2Te5NEUW
+suXPgEK942l69qnViOckgXFeF1YtaG0fWISixLZMay+ci5Ej3TXvxhi3OhjSCUkm
+m58F0ejqk88QeMEmX0DPSgfZU2wYVIkqXNLZOmjuoe2rjQ2iPQ5Y53aPFx00WSsJ
+sDBRM5IQ+Iiab5eEAVmoBXQwJ1W1dz7gH4k0Xt1Y2KMuNSOe39q6RsnTgZTOf/IZ
+WS7sBjZm/R/jblTvlBNAkN89QiLl4NEUeHsQ1/UTBrr+gFrcV+MuEk4E6TuONpQU
+CLyAzUoQm9A5911cshYbgYh0RdiMxuQPVYiMG6C3ag==
+=m1yM
+-----END PGP SIGNATURE-----
