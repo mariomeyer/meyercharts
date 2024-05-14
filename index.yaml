@@ -2,8 +2,19 @@ apiVersion: v1
 entries:
   activepieces:
   - apiVersion: v2
+    appVersion: 0.26.1
+    created: "2024-05-14T11:46:19.458242-04:00"
+    description: Activepieces is an open-source business automation tool
+    digest: dbb01e0b10045c2535e6e7de48a774ed9404df3e18b6b164550837974eee4ed8
+    icon: https://cdn.activepieces.com/pieces/activepieces.png
+    name: activepieces
+    type: application
+    urls:
+    - activepieces-0.1.6.tgz
+    version: 0.1.6
+  - apiVersion: v2
     appVersion: 0.23.0
-    created: "2024-04-11T10:21:12.709833-04:00"
+    created: "2024-05-14T11:46:19.457963-04:00"
     description: Activepieces is an open-source business automation tool
     digest: 76a0563e4834f33b08bb8aa2f6826932dec7f0ab982c3d153ce0796f5488c6a6
     icon: https://cdn.activepieces.com/pieces/activepieces.png
@@ -14,7 +25,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: 0.23.0
-    created: "2024-04-11T10:21:12.709257-04:00"
+    created: "2024-05-14T11:46:19.457685-04:00"
     description: Activepieces is an open-source business automation tool
     digest: 9cc6b1ec06f9cac11b4e460528f9e918c3ea7ca2855c14ae593125dad2ce37c3
     name: activepieces
@@ -24,7 +35,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 0.19.0
-    created: "2024-04-11T10:21:12.707964-04:00"
+    created: "2024-05-14T11:46:19.457305-04:00"
     description: Activepieces is an open-source business automation tool
     digest: ea1b4dcdc2bd6649f154292a0bed62ec8bfc063806ab47e097f9ef8c5a52b7f6
     name: activepieces
@@ -34,7 +45,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-04-11T10:21:12.706597-04:00"
+    created: "2024-05-14T11:46:19.456906-04:00"
     description: Activepieces is an open-source business automation tool
     digest: 96eb95af58ab96c523c5b085de4458bc5a49be565bf6080ff4c7fbb09d41f507
     name: activepieces
@@ -44,7 +55,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-04-11T10:21:12.705017-04:00"
+    created: "2024-05-14T11:46:19.456455-04:00"
     description: Activepieces is an open-source business automation tool
     digest: ebf991028af0f825f10ed1f5c2ff47293cf74f74d2e3c64190ca92af11aef608
     name: activepieces
@@ -54,7 +65,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-04-11T10:21:12.70367-04:00"
+    created: "2024-05-14T11:46:19.456022-04:00"
     description: Activepieces is an open-source business automation tool
     digest: 3a8c0538bdf23edcdc64c714c69432e3c5777860403427de251491e9ac618b15
     name: activepieces
@@ -65,9 +76,9 @@ entries:
   route53-cron:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-04-11T10:21:12.710884-04:00"
+    created: "2024-05-14T11:46:19.458474-04:00"
     description: Dynamic DNS simple updater for AWS Route 53 on top of AWS CLI image
-    digest: 76c6d25c9298bc9d526bb8546ab0ceab2b55f08f86d8cb6e4d67908c1b1062a8
+    digest: 91a9947a318ed39d0b406690cb639418f7395eb6c3ba302084477e43d65bae1b
     name: route53-cron
     type: application
     urls:
@@ -75,7 +86,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2024-04-11T10:21:12.710621-04:00"
+    created: "2024-05-14T11:46:19.458352-04:00"
     description: Dynamic DNS simple updater for AWS Route 53 on top of AWS CLI image
     digest: 76ee91952b33b8d11b376044cfa44fb9ad68987812c52d3b168be28c0030a5bd
     name: route53-cron
@@ -83,4 +94,4 @@ entries:
     urls:
     - route53-cron-0.1.0.tgz
     version: 0.1.0
-generated: "2024-04-11T10:21:12.698484-04:00"
+generated: "2024-05-14T11:46:19.454871-04:00"

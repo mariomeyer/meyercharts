@@ -1,0 +1,27 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+apiVersion: v2
+appVersion: 0.26.1
+description: Activepieces is an open-source business automation tool
+icon: https://cdn.activepieces.com/pieces/activepieces.png
+name: activepieces
+type: application
+version: 0.1.6
+
+...
+files:
+  activepieces-0.1.6.tgz: sha256:dbb01e0b10045c2535e6e7de48a774ed9404df3e18b6b164550837974eee4ed8
+-----BEGIN PGP SIGNATURE-----
+
+wsDcBAEBCgAQBQJmQ4dLCRC0ZzUQ50OLIQAAIIEMAHmWEL1C70pdHrOUqbVcfFvC
+kg6w2B+cOFdAqUnfZYaigRvn0qfYKTNcASI02SmxpHRGMTB/i+SPpGxavjuktQ1J
+4+iv5sKF/yDR3TwcXcjeHbTzpl5ndx9/S6oyWY0YeV6gvuWcq7YwOWsSbh0dEK7X
+NiGbQcIpfVyFReTKpuB7PDUA9ioIXJ+enBu+TVumI/czkNwQLygMOXyTa3GUkAHO
+prbRbtxhXt9kKD8CitYSYwlC2vFl1DFXuViXEuTIhwmPzH7Gt2yl3rekigAQkuAk
+ChmCRXoOe/4X0BDlR//tjAIbntyymlLrGOlMXqcxrDasjqvv2qQyyo/K+8aNvyoO
+ElsdikKabxu84Cq+Pym2YVP9ma/3KOkqjPfEyTQWAbyfCLeJoTIPkuzslIGINfK2
+n0nSH5sziCur+Oi5JKBCiM/kkBPr2439PZi52EretADwnmVZ8Yhp6DtDrcOmmYb/
+XW+4BEwQSmbdnrVGVInej6FeVgyyjCLvhf6W/pHd8A==
+=9avc
+-----END PGP SIGNATURE-----
